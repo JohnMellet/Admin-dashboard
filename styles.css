@@ -1,0 +1,72 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+:root {
+}
+
+header {
+  display: flex;
+
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 100vh;
+  max-width: 7vw;
+  background: #ffffff;
+  background: radial-gradient(at center, #ffffff, #fcf8e9);
+}
+.window-navigation {
+  display: flex;
+  padding-top: 20px;
+  gap: 5px;
+}
+
+.window-dots {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+.red {
+  background-color: red;
+}
+
+.gold {
+  background-color: gold;
+}
+
+.green {
+  background-color: greenyellow;
+}
+
+.nav-icon-containers:hover {
+  width: 58px;
+  border: 4px solid orangered;
+  border-radius: 15px;
+}
+
+.nav-icon-box {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+}
+
+.logout {
+  padding-bottom: 25px;
+}
+
+.logout svg:hover {
+  height: 65px;
+  width: 65px;
+}
+
+svg {
+  height: 50px;
+  width: 50px;
+}
