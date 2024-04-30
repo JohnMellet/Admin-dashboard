@@ -4401,7 +4401,7 @@
 113/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/csso/node_modules/css-tree/lib/syntax/config/mix.js1714406890962506142 0
 77/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/ramda/es/any.js1714406890914504274 0
 138/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/config/walker.js1714406890934505053 0
-63/home/jrmellet/personalPortfolio/Admin-dashboard/src/index.html1714428499384527097 0
+63/home/jrmellet/personalPortfolio/Admin-dashboard/src/index.html1714433230913195179 0
 79/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/ramda/es/internal1714406890906503963 1
 107/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/@parcel/source-map/dist/wasm-bindings.js.flow1714406890766498515 0
 118/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/030-config.md1714406890890503341 0
@@ -4466,7 +4466,7 @@
 138/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/generic-urange.js1714406890898503652 0
 95/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/@parcel/workers/lib/childState.js1714406890778498982 0
 87/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/dayjs/esm/locale/ug-cn.js1714406890986507076 0
-63/home/jrmellet/personalPortfolio/Admin-dashboard/src/styles.css1714428497416517164 0
+63/home/jrmellet/personalPortfolio/Admin-dashboard/src/styles.css1714503528715819104 0
 89/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/uuid/dist/esm-browser/v5.js1714406890862502251 0
 92/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/core-js/full/string/italics.js1714406891110511889 0
 91/home/jrmellet/personalPortfolio/Admin-dashboard/node_modules/core-js/full/iterator/drop.js1714406891014508165 0

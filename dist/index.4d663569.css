@@ -135,6 +135,10 @@ select {
   right: 20px;
 }
 
+.bell-icon {
+  height: 35px;
+}
+
 .account-settings {
   background-color: #fff;
   position: absolute;
@@ -160,6 +164,7 @@ select {
 
 .tech-card-container {
   flex-wrap: wrap;
+  justify-content: space-around;
   min-width: 63vw;
   display: flex;
 }
@@ -167,6 +172,7 @@ select {
 .tech-cards {
   border-radius: 10px;
   justify-content: space-between;
+  align-items: center;
   min-width: 500px;
   height: 90px;
   display: flex;
@@ -174,6 +180,10 @@ select {
 
 .card-1 {
   background-color: #ffba9e31;
+}
+
+.card-icon {
+  height: 40px;
 }
 
 .card-2 {
@@ -193,7 +203,24 @@ select {
 }
 
 .card-6 {
-  background-color: #c0f7cb11;
+  background-color: #0349112c;
+}
+
+.card-number {
+  padding-left: 30px;
+  font-size: 2.8em;
+  font-weight: bolder;
+}
+
+.card-icon {
+  justify-content: flex-end;
+  width: 225px;
+  padding-left: 140px;
+  display: flex;
+}
+
+.card-text {
+  font-size: 1em;
 }
 
 .ytd-graph-container {
