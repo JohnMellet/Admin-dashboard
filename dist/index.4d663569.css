@@ -137,6 +137,7 @@ select {
 }
 
 .toolbar-links > ul > li {
+  z-index: 5;
   position: relative;
 }
 

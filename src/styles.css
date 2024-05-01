@@ -147,6 +147,7 @@ select {
 
 .toolbar-links > ul > li {
   position: relative;
+  z-index: 5;
 }
 
 .toolbar-links > ul > li > ul {
