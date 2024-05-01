@@ -119,12 +119,24 @@ select {
   position: relative;
 }
 
-#search-logo {
+.search-logo {
   position: absolute;
   height: 3vh;
   fill: lightgray;
   top: 3px;
-  left: -6px;
+  left: 4px;
+}
+
+.hide {
+  display: none;
+}
+
+.search-placeholder {
+  position: absolute;
+  top: 9px;
+  left: 50px;
+  color: lightgray;
+  font-size: 1.1em;
 }
 
 .toolbar-links {
